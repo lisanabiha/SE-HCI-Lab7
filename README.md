@@ -1,1 +1,2 @@
-# SE-HCI-Lab7
+# Hello World Project
+This is a simple CI/CD pipeline demo project.
